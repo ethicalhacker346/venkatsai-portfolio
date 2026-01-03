@@ -422,8 +422,8 @@ const ProjectShowcase = () => {
             Discuss This Project
           </button>
           <a
-            href="/Venkata_Sai_Ram_Pandranki_Resume.pdf"
-            download
+            href="/resume/resume.pdf"
+            download="venkatasai-resume.pdf"
             className="btn-secondary"
           >
             Download Resume

@@ -137,8 +137,8 @@ const Contact = () => {
             Perfect for sharing with your hiring team!
           </p>
           <a
-            href="/Venkata_Sai_Ram_Pandranki_Resume.pdf"
-            download
+            href="/resume/resume.pdf"
+            download="venkatasai-resume.pdf"
             className="inline-flex items-center space-x-3 btn-primary"
           >
             <FiDownload className="text-xl" />
