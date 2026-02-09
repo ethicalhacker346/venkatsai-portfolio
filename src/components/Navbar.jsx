@@ -83,7 +83,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="/Venkata_Sai_Ram_Pandranki_Resume.pdf"
+              href="/resume.pdf"
               download
               className="flex items-center justify-center space-x-2 px-6 py-3 bg-primary-600 text-white font-semibold rounded-lg hover:bg-primary-700 transition-all"
             >
