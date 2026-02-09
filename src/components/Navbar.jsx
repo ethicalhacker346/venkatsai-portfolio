@@ -51,8 +51,8 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="/Venkata_Sai_Ram_Pandranki_Resume.pdf"
-              download
+              href="/resume/resume.pdf"
+              download="venkatasai-resume.pdf"
               className="flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-primary-600 to-primary-700 text-white font-semibold rounded-lg hover:from-primary-700 hover:to-primary-800 transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-primary-500/50"
             >
               <FiDownload className="text-lg" />
